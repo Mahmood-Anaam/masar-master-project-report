@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-01",
+  "zip_and_xml_integrity": "pass",
+  "balanced_field_boundaries": "pass",
+  "unique_citation_ids": 53,
+  "bibliography_entries": 32,
+  "unresolved_internal_hyperlinks": 0,
+  "unresolved_markdown_citation_tokens": 0,
+  "report_pages": 50,
+  "chapter_start": 15,
+  "chapter_end": 41,
+  "chapter_pages": 27,
+  "table_count": 5,
+  "figure_count": 1,
+  "pdf_hyperlinks": 110,
+  "out_of_page_text": 0,
+  "native_word_zotero_refresh": "not tested",
+  "rendering_basis": "Visible field results; field-preserving final DOCX validated separately"
+}

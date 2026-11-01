@@ -1,0 +1,272 @@
+{
+  "toc": [
+    {
+      "title": "Abstract",
+      "anchor": "_Toc244371161",
+      "style": "PreliminaryHeadingCoEKSU",
+      "label": "",
+      "cache": "MASAR_TOC_CACHE_0",
+      "page": 2
+    },
+    {
+      "title": "\u0627\u0644\u062e\u0644\u0627\u0635\u0629",
+      "anchor": "_Toc244371162",
+      "style": "PreliminaryHeadingCoEKSU",
+      "label": "",
+      "cache": "MASAR_TOC_CACHE_1",
+      "page": 3
+    },
+    {
+      "title": "Table of Contents",
+      "anchor": "_Toc400459736",
+      "style": "PreliminaryHeadingCoEKSU",
+      "label": "",
+      "cache": "MASAR_TOC_CACHE_2",
+      "page": 4
+    },
+    {
+      "title": "List of Abbreviations",
+      "anchor": "_Toc244371164",
+      "style": "PreliminaryHeadingCoEKSU",
+      "label": "",
+      "cache": "MASAR_TOC_CACHE_3",
+      "page": 5
+    },
+    {
+      "title": "List of Figures",
+      "anchor": "_Toc244371165",
+      "style": "PreliminaryHeadingCoEKSU",
+      "label": "",
+      "cache": "MASAR_TOC_CACHE_4",
+      "page": 6
+    },
+    {
+      "title": "List of Tables",
+      "anchor": "_Toc400459738",
+      "style": "PreliminaryHeadingCoEKSU",
+      "label": "",
+      "cache": "MASAR_TOC_CACHE_5",
+      "page": 7
+    },
+    {
+      "title": "Acknowledgements",
+      "anchor": "_Toc244371167",
+      "style": "PreliminaryHeadingCoEKSU",
+      "label": "",
+      "cache": "MASAR_TOC_CACHE_6",
+      "page": 8
+    },
+    {
+      "title": "Introduction",
+      "anchor": "_Toc400459742",
+      "style": "Heading1",
+      "label": "Chapter 1:",
+      "cache": "MASAR_TOC_CACHE_7",
+      "page": 9
+    },
+    {
+      "title": "Motivation and Scope",
+      "anchor": "_Toc244371169",
+      "style": "Heading2",
+      "label": "1.1",
+      "cache": "MASAR_TOC_CACHE_8",
+      "page": 9
+    },
+    {
+      "title": "Problem Statement and Significance for Information Systems",
+      "anchor": "_Toc244371170",
+      "style": "Heading2",
+      "label": "1.2",
+      "cache": "MASAR_TOC_CACHE_9",
+      "page": 10
+    },
+    {
+      "title": "Importance of the Problem and the Big Picture",
+      "anchor": "_Toc244371171",
+      "style": "Heading2",
+      "label": "1.3",
+      "cache": "MASAR_TOC_CACHE_10",
+      "page": 12
+    },
+    {
+      "title": "Objectives and Proposed Solution",
+      "anchor": "_Toc244371172",
+      "style": "Heading2",
+      "label": "1.4",
+      "cache": "MASAR_TOC_CACHE_11",
+      "page": 13
+    },
+    {
+      "title": "Literature Review",
+      "anchor": "_Toc400459748",
+      "style": "Heading1",
+      "label": "Chapter 2:",
+      "cache": "MASAR_TOC_CACHE_12",
+      "page": 15
+    },
+    {
+      "title": "Introduction",
+      "label": "2.1",
+      "anchor": "MASAR_CH2_1",
+      "style": "Heading2",
+      "cache": "MASAR_TOC_CACHE_13",
+      "page": 15
+    },
+    {
+      "title": "Review Approach and Evidence Boundaries",
+      "label": "2.2",
+      "anchor": "MASAR_CH2_2",
+      "style": "Heading2",
+      "cache": "MASAR_TOC_CACHE_14",
+      "page": 15
+    },
+    {
+      "title": "Business Continuity and Organizational Resilience",
+      "label": "2.3",
+      "anchor": "MASAR_CH2_3",
+      "style": "Heading2",
+      "cache": "MASAR_TOC_CACHE_15",
+      "page": 17
+    },
+    {
+      "title": "Business Impact Analysis and Recovery Requirements",
+      "label": "2.4",
+      "anchor": "MASAR_CH2_4",
+      "style": "Heading2",
+      "cache": "MASAR_TOC_CACHE_16",
+      "page": 19
+    },
+    {
+      "title": "Methods for Recovery Prioritization",
+      "label": "2.5",
+      "anchor": "MASAR_CH2_5",
+      "style": "Heading2",
+      "cache": "MASAR_TOC_CACHE_17",
+      "page": 25
+    },
+    {
+      "title": "Dependencies and the Interpretation of Criticality",
+      "label": "2.6",
+      "anchor": "MASAR_CH2_6",
+      "style": "Heading2",
+      "cache": "MASAR_TOC_CACHE_18",
+      "page": 29
+    },
+    {
+      "title": "Decision Support Systems and Comparable Software",
+      "label": "2.7",
+      "anchor": "MASAR_CH2_7",
+      "style": "Heading2",
+      "cache": "MASAR_TOC_CACHE_19",
+      "page": 32
+    },
+    {
+      "title": "Critical Synthesis and Positioning of TDRP and Masar",
+      "label": "2.8",
+      "anchor": "MASAR_CH2_8",
+      "style": "Heading2",
+      "cache": "MASAR_TOC_CACHE_20",
+      "page": 36
+    },
+    {
+      "title": "Chapter Summary",
+      "label": "2.9",
+      "anchor": "MASAR_CH2_9",
+      "style": "Heading2",
+      "cache": "MASAR_TOC_CACHE_21",
+      "page": 41
+    },
+    {
+      "title": "Methodology/ Research Design",
+      "anchor": "_Toc400459754",
+      "style": "Heading1",
+      "label": "Chapter 3:",
+      "cache": "MASAR_TOC_CACHE_22",
+      "page": 42
+    },
+    {
+      "title": "Results and Discussions",
+      "anchor": "_Toc159383943",
+      "style": "Heading1",
+      "label": "Chapter 4:",
+      "cache": "MASAR_TOC_CACHE_23",
+      "page": 43
+    },
+    {
+      "title": "Analysis/ Discussions",
+      "anchor": "_Toc159383944",
+      "style": "Heading1",
+      "label": "Chapter 5:",
+      "cache": "MASAR_TOC_CACHE_24",
+      "page": 44
+    },
+    {
+      "title": "Conclusions",
+      "anchor": "_Toc159383945",
+      "style": "Heading1",
+      "label": "Chapter 6:",
+      "cache": "MASAR_TOC_CACHE_25",
+      "page": 45
+    },
+    {
+      "title": "References",
+      "anchor": "_Toc244371178",
+      "style": "AppendicesBibliographyCoEKSU",
+      "label": "",
+      "cache": "MASAR_TOC_CACHE_26",
+      "page": 46
+    },
+    {
+      "title": "Appendices\t",
+      "anchor": "_Toc400459767",
+      "style": "AppendicesBibliographyCoEKSU",
+      "label": "",
+      "cache": "MASAR_TOC_CACHE_27",
+      "page": 49
+    }
+  ],
+  "captions": [
+    {
+      "label": "Table 2.1",
+      "title": "Recovery parameters and their interpretation",
+      "anchor": "MASAR_TABLE_1",
+      "kind": "Table",
+      "page": 23
+    },
+    {
+      "label": "Table 2.2",
+      "title": "Comparison of methodological commitments",
+      "anchor": "MASAR_TABLE_2",
+      "kind": "Table",
+      "page": 28
+    },
+    {
+      "label": "Table 2.3",
+      "title": "Research prototypes and their decision boundaries",
+      "anchor": "MASAR_TABLE_3",
+      "kind": "Table",
+      "page": 33
+    },
+    {
+      "label": "Table 2.4",
+      "title": "Operational software and its relationship to Masar",
+      "anchor": "MASAR_TABLE_4",
+      "kind": "Table",
+      "page": 36
+    },
+    {
+      "label": "Figure 2.1",
+      "title": "Conceptual relationships linking temporal assessment service priorities and supporting dependencies",
+      "anchor": "MASAR_FIGURE_1",
+      "kind": "Figure",
+      "page": 38
+    },
+    {
+      "label": "Table 2.5",
+      "title": "Literature based evaluation questions",
+      "anchor": "MASAR_TABLE_5",
+      "kind": "Table",
+      "page": 40
+    }
+  ]
+}

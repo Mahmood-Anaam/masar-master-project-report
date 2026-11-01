@@ -1,0 +1,1044 @@
+{
+  "nrcnationalframework": {
+    "csl": {
+      "id": "nrcnationalframework",
+      "type": "document",
+      "note": "Published: National Risk Council, Saudi Arabia",
+      "title": "National Framework for Risk, Emergency and Business Continuity Management: Business Continuity Management Section",
+      "URL": "https://riskbcm.com/gsnrc_standards/",
+      "author": [
+        {
+          "literal": "General Secretariat of the National Risk Council"
+        }
+      ]
+    },
+    "basis": "Existing Zotero record retained; national framework context from introduction and public source listing",
+    "ieee_number": 1
+  },
+  "dga2025bcm": {
+    "csl": {
+      "id": "dga2025bcm",
+      "type": "report",
+      "number": "DGA-1-2-5-231",
+      "publisher": "Digital Government Authority, Saudi Arabia",
+      "title": "Guideline for Risk Management and Business Continuity for Digital Government: Business Continuity Management System",
+      "URL": "https://dga.gov.sa/ar/regulatory-documents/guideline-for-risk-management-and-business-continuity-for-digital-government",
+      "author": [
+        {
+          "literal": "Digital Government Authority"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            "2025",
+            1
+          ]
+        ]
+      }
+    },
+    "basis": "Existing Zotero record retained; saved full-text passages at printed pages 116 and 118 checked",
+    "ieee_number": 2
+  },
+  "hevner2004design": {
+    "csl": {
+      "id": "hevner2004design",
+      "type": "article-journal",
+      "container-title": "MIS Quarterly",
+      "DOI": "10.2307/25148625",
+      "issue": "1",
+      "page": "75–105",
+      "title": "Design Science in Information Systems Research",
+      "volume": "28",
+      "author": [
+        {
+          "family": "Hevner",
+          "given": "Alan R."
+        },
+        {
+          "family": "March",
+          "given": "Salvatore T."
+        },
+        {
+          "family": "Park",
+          "given": "Jinsoo"
+        },
+        {
+          "family": "Ram",
+          "given": "Sudha"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            "2004"
+          ]
+        ]
+      }
+    },
+    "basis": "Existing Chapter 1 Zotero item; original library URI retained",
+    "ieee_number": 3
+  },
+  "peffers2007dsrm": {
+    "csl": {
+      "id": "peffers2007dsrm",
+      "type": "article-journal",
+      "container-title": "Journal of Management Information Systems",
+      "DOI": "10.2753/MIS0742-1222240302",
+      "issue": "3",
+      "page": "45–77",
+      "title": "A Design Science Research Methodology for Information Systems Research",
+      "volume": "24",
+      "author": [
+        {
+          "family": "Peffers",
+          "given": "Ken"
+        },
+        {
+          "family": "Tuunanen",
+          "given": "Tuure"
+        },
+        {
+          "family": "Rothenberger",
+          "given": "Marcus A."
+        },
+        {
+          "family": "Chatterjee",
+          "given": "Samir"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            "2007"
+          ]
+        ]
+      }
+    },
+    "basis": "Existing Chapter 1 Zotero item; original library URI retained",
+    "ieee_number": 4
+  },
+  "torabi2014framework": {
+    "csl": {
+      "id": "torabi2014framework",
+      "type": "article-journal",
+      "container-title": "Safety Science",
+      "DOI": "10.1016/j.ssci.2014.04.017",
+      "page": "309–323",
+      "title": "A New Framework for Business Impact Analysis in Business Continuity Management (with a Case Study)",
+      "volume": "68",
+      "author": [
+        {
+          "family": "Torabi",
+          "given": "S. Ali"
+        },
+        {
+          "family": "Rezaei Soufi",
+          "given": "Hojat"
+        },
+        {
+          "family": "Sahebjamnia",
+          "given": "Navid"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            "2014"
+          ]
+        ]
+      }
+    },
+    "basis": "Existing Zotero record retained; paper abstract and publisher highlights checked",
+    "ieee_number": 5
+  },
+  "sahebjamnia2015integrated": {
+    "csl": {
+      "id": "sahebjamnia2015integrated",
+      "type": "article-journal",
+      "container-title": "European Journal of Operational Research",
+      "DOI": "10.1016/j.ejor.2014.09.055",
+      "issue": "1",
+      "page": "261–273",
+      "title": "Integrated Business Continuity and Disaster Recovery Planning: Towards Organizational Resilience",
+      "volume": "242",
+      "author": [
+        {
+          "family": "Sahebjamnia",
+          "given": "Navid"
+        },
+        {
+          "family": "Torabi",
+          "given": "S. Ali"
+        },
+        {
+          "family": "Mansouri",
+          "given": "S. Afshin"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            "2015"
+          ]
+        ]
+      }
+    },
+    "basis": "Existing Zotero record retained; abstract and accepted-manuscript case-study passages checked",
+    "ieee_number": 6,
+    "verification_url": "https://bura.brunel.ac.uk/bitstream/2438/11835/1/Fulltext.pdf"
+  },
+  "jarvelainen2013": {
+    "csl": {
+      "id": "jarvelainen2013",
+      "type": "article-journal",
+      "title": "IT incidents and business impacts: Validating a framework for continuity management in information systems",
+      "author": [
+        {
+          "family": "Järveläinen",
+          "given": "Jonna"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2013
+          ]
+        ]
+      },
+      "container-title": "International Journal of Information Management",
+      "volume": "33",
+      "page": "583–590",
+      "DOI": "10.1016/j.ijinfomgt.2013.03.001",
+      "URL": "https://doi.org/10.1016/j.ijinfomgt.2013.03.001"
+    },
+    "basis": "Paper abstract and bibliographic record",
+    "ieee_number": 9
+  },
+  "aghabegloo2024": {
+    "csl": {
+      "id": "aghabegloo2024",
+      "type": "article-journal",
+      "title": "Integrating business impact analysis and risk assessment for physical asset criticality analysis: A framework for sustainable operations in process industries",
+      "author": [
+        {
+          "family": "Aghabegloo",
+          "given": "Mohsen"
+        },
+        {
+          "family": "Rezaie",
+          "given": "Kamran"
+        },
+        {
+          "family": "Torabi",
+          "given": "S. Ali"
+        },
+        {
+          "family": "Yazdani",
+          "given": "Maziar"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2024
+          ]
+        ]
+      },
+      "container-title": "Expert Systems with Applications",
+      "volume": "241",
+      "page": "122737",
+      "DOI": "10.1016/j.eswa.2023.122737",
+      "URL": "https://doi.org/10.1016/j.eswa.2023.122737"
+    },
+    "basis": "Paper abstract and bibliographic record",
+    "metadata_note": "Final journal issue year used instead of online-first year in Paperguide",
+    "ieee_number": 17,
+    "verification_url": "https://www.sciencedirect.com/science/article/abs/pii/S0957417423032396"
+  },
+  "walle2006": {
+    "csl": {
+      "id": "walle2006",
+      "type": "article-journal",
+      "title": "A fuzzy decision support system for IT service continuity threat assessment",
+      "author": [
+        {
+          "family": "Van de Walle",
+          "given": "Bartel"
+        },
+        {
+          "family": "Rutkowski",
+          "given": "A. F."
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2006
+          ]
+        ]
+      },
+      "container-title": "Decision Support Systems",
+      "volume": "42",
+      "page": "1931–1943",
+      "DOI": "10.1016/j.dss.2006.05.002",
+      "issue": "3",
+      "URL": "https://doi.org/10.1016/j.dss.2006.05.002"
+    },
+    "basis": "Paper abstract and bibliographic record",
+    "ieee_number": 25
+  },
+  "theocharidou2010": {
+    "csl": {
+      "id": "theocharidou2010",
+      "type": "article-journal",
+      "title": "A multi-layer criticality assessment methodology based on interdependencies",
+      "author": [
+        {
+          "family": "Theocharidou",
+          "given": "Marianthi"
+        },
+        {
+          "family": "Kotzanikolaou",
+          "given": "Panayiotis"
+        },
+        {
+          "family": "Gritzalis",
+          "given": "Dimitris"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2010
+          ]
+        ]
+      },
+      "container-title": "Computers & Security",
+      "volume": "29",
+      "page": "643–658",
+      "DOI": "10.1016/j.cose.2010.02.003",
+      "URL": "https://doi.org/10.1016/j.cose.2010.02.003"
+    },
+    "basis": "Paper abstract and bibliographic record",
+    "ieee_number": 20
+  },
+  "lauge2015": {
+    "csl": {
+      "id": "lauge2015",
+      "type": "article-journal",
+      "title": "Critical infrastructure dependencies: A holistic, dynamic and quantitative approach",
+      "author": [
+        {
+          "family": "Laugé",
+          "given": "Ana"
+        },
+        {
+          "family": "Hernantes",
+          "given": "Josune"
+        },
+        {
+          "family": "Sarriegi",
+          "given": "Jose Mari"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2015
+          ]
+        ]
+      },
+      "container-title": "International Journal of Critical Infrastructure Protection",
+      "volume": "8",
+      "page": "16–23",
+      "DOI": "10.1016/j.ijcip.2014.12.004",
+      "URL": "https://doi.org/10.1016/j.ijcip.2014.12.004"
+    },
+    "basis": "Paper abstract and bibliographic record",
+    "metadata_note": "Final journal issue year used instead of online-first year in Paperguide",
+    "ieee_number": 21,
+    "verification_url": "https://www.sciencedirect.com/science/article/abs/pii/S187454821400081X"
+  },
+  "aggelinos2012": {
+    "csl": {
+      "id": "aggelinos2012",
+      "type": "paper-conference",
+      "title": "Disaster recovery analysis and management method (DRAMM): An IT management tool",
+      "author": [
+        {
+          "family": "Aggelinos",
+          "given": "George"
+        },
+        {
+          "family": "Katsikas",
+          "given": "Sokratis K."
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2012
+          ]
+        ]
+      },
+      "container-title": "Proc. 16th Panhellenic Conference on Informatics",
+      "page": "99–104",
+      "DOI": "10.1109/pci.2012.56",
+      "URL": "https://doi.org/10.1109/pci.2012.56"
+    },
+    "basis": "Paper abstract and bibliographic record",
+    "ieee_number": 27
+  },
+  "alessa2018": {
+    "csl": {
+      "id": "alessa2018",
+      "type": "paper-conference",
+      "title": "An approach to automate business impact analysis",
+      "author": [
+        {
+          "family": "Al-Essa",
+          "given": "Hadeel A."
+        },
+        {
+          "family": "Al-Sharidah",
+          "given": "Ahmad H."
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "container-title": "Proc. IEEE International Symposium on Systems Engineering (ISSE)",
+      "page": "1–3",
+      "DOI": "10.1109/syseng.2018.8544438",
+      "URL": "https://doi.org/10.1109/syseng.2018.8544438"
+    },
+    "basis": "Paper abstract and bibliographic record",
+    "ieee_number": 13
+  },
+  "merz2009": {
+    "csl": {
+      "id": "merz2009",
+      "type": "article-journal",
+      "title": "Multicriteria decision support for business continuity planning in the event of critical infrastructure disruptions",
+      "author": [
+        {
+          "family": "Merz",
+          "given": "Mirjam"
+        },
+        {
+          "family": "Hiete",
+          "given": "Michael"
+        },
+        {
+          "family": "Bertsch",
+          "given": "Valentin"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2009
+          ]
+        ]
+      },
+      "container-title": "International Journal of Critical Infrastructures",
+      "volume": "5",
+      "page": "156–174",
+      "DOI": "10.1504/ijcis.2009.022854",
+      "issue": "1/2",
+      "URL": "https://doi.org/10.1504/ijcis.2009.022854"
+    },
+    "basis": "Paper abstract and bibliographic record",
+    "ieee_number": 16,
+    "verification_url": "https://www.inderscience.com/info/inarticle.php?artid=22854"
+  },
+  "alkhaleel2022": {
+    "csl": {
+      "id": "alkhaleel2022",
+      "type": "article-journal",
+      "title": "Model and solution method for mean-risk cost-based post-disruption restoration of interdependent critical infrastructure networks",
+      "author": [
+        {
+          "family": "Alkhaleel",
+          "given": "Basem A."
+        },
+        {
+          "family": "Liao",
+          "given": "Haitao"
+        },
+        {
+          "family": "Sullivan",
+          "given": "Kelly M."
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      },
+      "container-title": "Computers & Operations Research",
+      "volume": "144",
+      "page": "105812",
+      "DOI": "10.1016/j.cor.2022.105812",
+      "URL": "https://doi.org/10.1016/j.cor.2022.105812"
+    },
+    "basis": "Paper abstract and bibliographic record",
+    "ieee_number": 19
+  },
+  "poulin2021": {
+    "csl": {
+      "id": "poulin2021",
+      "type": "article-journal",
+      "title": "Infrastructure resilience curves: Performance measures and summary metrics",
+      "author": [
+        {
+          "family": "Poulin",
+          "given": "Craig"
+        },
+        {
+          "family": "Kane",
+          "given": "Michael B."
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2021
+          ]
+        ]
+      },
+      "container-title": "Reliability Engineering & System Safety",
+      "volume": "216",
+      "page": "107926",
+      "DOI": "10.1016/j.ress.2021.107926",
+      "URL": "https://doi.org/10.1016/j.ress.2021.107926"
+    },
+    "basis": "Paper abstract and bibliographic record",
+    "ieee_number": 15
+  },
+  "henry2012": {
+    "csl": {
+      "id": "henry2012",
+      "type": "article-journal",
+      "title": "Generic metrics and quantitative approaches for system resilience as a function of time",
+      "author": [
+        {
+          "family": "Henry",
+          "given": "Devanandham"
+        },
+        {
+          "family": "Ramírez-Márquez",
+          "given": "José Emmanuel"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2012
+          ]
+        ]
+      },
+      "container-title": "Reliability Engineering & System Safety",
+      "volume": "99",
+      "page": "114–122",
+      "DOI": "10.1016/j.ress.2011.09.002",
+      "URL": "https://doi.org/10.1016/j.ress.2011.09.002"
+    },
+    "basis": "Paper abstract and bibliographic record",
+    "metadata_note": "Final journal issue year used instead of online-first year in Paperguide",
+    "ieee_number": 14,
+    "verification_url": "https://www.sciencedirect.com/science/article/abs/pii/S0951832011001748"
+  },
+  "luiijf2021": {
+    "csl": {
+      "id": "luiijf2021",
+      "type": "article-journal",
+      "title": "Analysis and lessons identified on critical infrastructures and dependencies from an empirical data set",
+      "author": [
+        {
+          "family": "Luiijf",
+          "given": "H. A. M."
+        },
+        {
+          "family": "Klaver",
+          "given": "Marieke H. A."
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2021
+          ]
+        ]
+      },
+      "container-title": "International Journal of Critical Infrastructure Protection",
+      "volume": "35",
+      "page": "100471",
+      "DOI": "10.1016/j.ijcip.2021.100471",
+      "URL": "https://doi.org/10.1016/j.ijcip.2021.100471"
+    },
+    "basis": "Paper abstract and bibliographic record",
+    "ieee_number": 23
+  },
+  "shim2002": {
+    "csl": {
+      "id": "shim2002",
+      "type": "article-journal",
+      "title": "Past, present, and future of decision support technology",
+      "author": [
+        {
+          "family": "Shim",
+          "given": "J. P."
+        },
+        {
+          "family": "Warkentin",
+          "given": "Merrill"
+        },
+        {
+          "family": "Courtney",
+          "given": "James F."
+        },
+        {
+          "family": "Power",
+          "given": "Daniel J."
+        },
+        {
+          "family": "Sharda",
+          "given": "Ramesh"
+        },
+        {
+          "family": "Carlsson",
+          "given": "Christer"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2002
+          ]
+        ]
+      },
+      "container-title": "Decision Support Systems",
+      "volume": "33",
+      "page": "111–126",
+      "DOI": "10.1016/s0167-9236(01)00139-7",
+      "URL": "https://doi.org/10.1016/s0167-9236(01)00139-7"
+    },
+    "basis": "Paper abstract and bibliographic record",
+    "ieee_number": 24
+  },
+  "steen2024": {
+    "csl": {
+      "id": "steen2024",
+      "type": "article-journal",
+      "title": "Business continuity and resilience management: A conceptual framework",
+      "author": [
+        {
+          "family": "Steen",
+          "given": "Riana"
+        },
+        {
+          "family": "Haug",
+          "given": "Ole Jacob"
+        },
+        {
+          "family": "Patriarca",
+          "given": "Riccardo"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2024
+          ]
+        ]
+      },
+      "container-title": "Journal of Contingencies and Crisis Management",
+      "volume": "32",
+      "page": "e12501",
+      "DOI": "10.1111/1468-5973.12501",
+      "issue": "1",
+      "URL": "https://doi.org/10.1111/1468-5973.12501"
+    },
+    "basis": "Publisher full text retrieved from the Sapienza institutional repository; final citation year verified as 2024",
+    "ieee_number": 10,
+    "verification_url": "https://iris.uniroma1.it/retrieve/4adf35fe-46e5-4d33-848d-e5c477cc3515/Steen_Contingencies_2023.pdf"
+  },
+  "baham2017": {
+    "csl": {
+      "id": "baham2017",
+      "type": "article-journal",
+      "title": "An Agile Methodology for the Disaster Recovery of Information Systems Under Catastrophic Scenarios",
+      "author": [
+        {
+          "family": "Baham",
+          "given": "Corey"
+        },
+        {
+          "family": "Hirschheim",
+          "given": "Rudy"
+        },
+        {
+          "family": "Calderon",
+          "given": "Andres A."
+        },
+        {
+          "family": "Kisekka",
+          "given": "Victoria"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2017
+          ]
+        ]
+      },
+      "container-title": "Journal of Management Information Systems",
+      "volume": "34",
+      "page": "633–663",
+      "DOI": "10.1080/07421222.2017.1372996",
+      "issue": "3",
+      "URL": "https://doi.org/10.1080/07421222.2017.1372996"
+    },
+    "basis": "Paper abstract and bibliographic record",
+    "ieee_number": 11
+  },
+  "bartolini2009": {
+    "csl": {
+      "id": "bartolini2009",
+      "type": "paper-conference",
+      "title": "Business-impact analysis and simulation of critical incidents in IT service management",
+      "author": [
+        {
+          "family": "Bartolini",
+          "given": "Claudio"
+        },
+        {
+          "family": "Stefanelli",
+          "given": "Cesare"
+        },
+        {
+          "family": "Tortonesi",
+          "given": "Mauro"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2009
+          ]
+        ]
+      },
+      "container-title": "IFIP/IEEE International Symposium on Integrated Network Management (IM)",
+      "page": "9–16",
+      "DOI": "10.1109/inm.2009.5188781",
+      "URL": "https://doi.org/10.1109/inm.2009.5188781"
+    },
+    "basis": "Paper abstract and bibliographic record",
+    "ieee_number": 26,
+    "verification_url": "https://sfera.unife.it/handle/11392/532788"
+  },
+  "tjoa2008": {
+    "csl": {
+      "id": "tjoa2008",
+      "type": "paper-conference",
+      "title": "Enhancing Business Impact Analysis and Risk Assessment Applying a Risk-Aware Business Process Modeling and Simulation Methodology",
+      "author": [
+        {
+          "family": "Tjoa",
+          "given": "Simon"
+        },
+        {
+          "family": "Jakoubi",
+          "given": "Stefan"
+        },
+        {
+          "family": "Quirchmayr",
+          "given": "Gerald"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2008
+          ]
+        ]
+      },
+      "container-title": "International Conference on Availability, Reliability and Security (ARES)",
+      "page": "179–186",
+      "DOI": "10.1109/ares.2008.206",
+      "URL": "https://doi.org/10.1109/ares.2008.206"
+    },
+    "basis": "Paper abstract and bibliographic record",
+    "ieee_number": 18
+  },
+  "neovius2016": {
+    "csl": {
+      "id": "neovius2016",
+      "type": "article-journal",
+      "title": "A Theory of Service Dependency",
+      "author": [
+        {
+          "family": "Neovius",
+          "given": "Mats"
+        },
+        {
+          "family": "Petre",
+          "given": "Luigia"
+        },
+        {
+          "family": "Sere",
+          "given": "Kaisa"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "container-title": "Electronic Proceedings in Theoretical Computer Science",
+      "volume": "209",
+      "page": "112–128",
+      "DOI": "10.4204/EPTCS.209.9",
+      "URL": "https://doi.org/10.4204/EPTCS.209.9"
+    },
+    "basis": "Complete 17-page PDF text read in two parts",
+    "ieee_number": 22
+  },
+  "iso22301": {
+    "csl": {
+      "id": "iso22301",
+      "type": "standard",
+      "title": "Security and resilience — Business continuity management systems — Requirements",
+      "author": [
+        {
+          "literal": "International Organization for Standardization"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2019
+          ]
+        ]
+      },
+      "URL": "https://www.iso.org/standard/75106.html",
+      "accessed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            1
+          ]
+        ]
+      },
+      "number": "ISO 22301:2019"
+    },
+    "basis": "Official ISO public catalogue description; no claim of full paid-standard access",
+    "ieee_number": 7
+  },
+  "iso22317": {
+    "csl": {
+      "id": "iso22317",
+      "type": "standard",
+      "title": "Security and resilience — Business continuity management systems — Guidelines for business impact analysis",
+      "author": [
+        {
+          "literal": "International Organization for Standardization"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2021
+          ]
+        ]
+      },
+      "URL": "https://www.iso.org/standard/79000.html",
+      "accessed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            1
+          ]
+        ]
+      },
+      "number": "ISO/TS 22317:2021"
+    },
+    "basis": "Official ISO catalogue and public Online Browsing Platform introduction and scope",
+    "ieee_number": 12
+  },
+  "nist2010": {
+    "csl": {
+      "id": "nist2010",
+      "type": "report",
+      "title": "Contingency Planning Guide for Federal Information Systems",
+      "author": [
+        {
+          "family": "Swanson",
+          "given": "Marianne"
+        },
+        {
+          "family": "Bowen",
+          "given": "Pauline"
+        },
+        {
+          "family": "Phillips",
+          "given": "Amy Wohl"
+        },
+        {
+          "family": "Gallup",
+          "given": "Dean"
+        },
+        {
+          "family": "Lynes",
+          "given": "David"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2010
+          ]
+        ]
+      },
+      "DOI": "10.6028/NIST.SP.800-34r1",
+      "URL": "https://doi.org/10.6028/NIST.SP.800-34r1",
+      "number": "NIST SP 800-34 Rev. 1",
+      "publisher": "National Institute of Standards and Technology"
+    },
+    "basis": "NIST full report sections 3.2.1–3.2.3 and official publication record",
+    "ieee_number": 8
+  },
+  "riskonnect": {
+    "csl": {
+      "id": "riskonnect",
+      "type": "webpage",
+      "title": "Business Continuity Management Software",
+      "author": [
+        {
+          "literal": "Riskonnect"
+        }
+      ],
+      "URL": "https://riskonnect.com/en-gb/business-continuity-management-software/",
+      "accessed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            1
+          ]
+        ]
+      }
+    },
+    "basis": "Official product or project documentation accessed 1 November 2026; no installed benchmark",
+    "ieee_number": 28
+  },
+  "fusion": {
+    "csl": {
+      "id": "fusion",
+      "type": "webpage",
+      "title": "Business Continuity Management Software",
+      "author": [
+        {
+          "literal": "Fusion Risk Management"
+        }
+      ],
+      "URL": "https://www.fusionrm.com/solutions/business-continuity-management/",
+      "accessed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            1
+          ]
+        ]
+      }
+    },
+    "basis": "Official product or project documentation accessed 1 November 2026; no installed benchmark",
+    "ieee_number": 29
+  },
+  "veeam": {
+    "csl": {
+      "id": "veeam",
+      "type": "webpage",
+      "title": "Overview — Veeam Recovery Orchestrator 13 User Guide",
+      "author": [
+        {
+          "literal": "Veeam Software"
+        }
+      ],
+      "URL": "https://helpcenter.veeam.com/docs/vro/userguide/overview.html?ver=13",
+      "accessed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            1
+          ]
+        ]
+      }
+    },
+    "basis": "Official product or project documentation accessed 1 November 2026; no installed benchmark",
+    "ieee_number": 30
+  },
+  "rear": {
+    "csl": {
+      "id": "rear",
+      "type": "webpage",
+      "title": "Introduction — Relax-and-Recover User Guide",
+      "author": [
+        {
+          "literal": "Relax-and-Recover Project"
+        }
+      ],
+      "URL": "https://relax-and-recover.org/rear-user-guide/basics/introduction.html",
+      "accessed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            1
+          ]
+        ]
+      }
+    },
+    "basis": "Official product or project documentation accessed 1 November 2026; no installed benchmark",
+    "ieee_number": 31
+  },
+  "borg": {
+    "csl": {
+      "id": "borg",
+      "type": "webpage",
+      "title": "Borg Documentation",
+      "author": [
+        {
+          "literal": "BorgBackup Project"
+        }
+      ],
+      "URL": "https://borgbackup.readthedocs.io/en/stable/index.html",
+      "accessed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            1
+          ]
+        ]
+      }
+    },
+    "basis": "Official product or project documentation accessed 1 November 2026; no installed benchmark",
+    "ieee_number": 32
+  }
+}
